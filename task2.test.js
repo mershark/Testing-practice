@@ -1,4 +1,4 @@
-const reverseString = require('./task2');
+const reverseString = require('./task2.js');
 
 test('reverseString reverses the input string', () => {
   expect(reverseString('hello')).toBe('olleh');

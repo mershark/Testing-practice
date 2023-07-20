@@ -1,5 +1,4 @@
-// calculator.test.js
-const Calculator = require('./task3');
+const Calculator = require('./task3.js');
 
 describe('Calculator - add()', () => {
   const calculator = new Calculator();

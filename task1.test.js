@@ -1,4 +1,4 @@
-const stringLength = require('./task1');
+const stringLength = require('./task1.js');
 
 test('stringLength returns the correct character count', () => {
   expect(() => stringLength('Hello, world!')).toThrow('The string must be between 1 and 10 characters long.');

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1689813941896" clover="3.2.0">
-  <project timestamp="1689813941896" name="All files">
-    <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="10" coveredelements="10" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+<coverage generated="1689814275381" clover="3.2.0">
+  <project timestamp="1689814275382" name="All files">
+    <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2" elements="14" coveredelements="14" complexity="0" loc="8" ncloc="8" packages="1" files="2" classes="2"/>
     <file name="task1.js" path="C:\Users\user\Desktop\Programming\Microverse\CourseStarted\Testing-practice\task1.js">
       <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
@@ -9,6 +9,12 @@
       <line num="3" count="4" type="stmt"/>
       <line num="6" count="2" type="stmt"/>
       <line num="9" count="1" type="stmt"/>
+    </file>
+    <file name="task2.js" path="C:\Users\user\Desktop\Programming\Microverse\CourseStarted\Testing-practice\task2.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
